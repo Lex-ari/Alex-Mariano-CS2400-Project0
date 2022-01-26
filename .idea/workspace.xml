@@ -4,65 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0061261c-7a66-4c34-bf34-0fbc7806ea69" name="Default Changelist" comment="Finished Project">
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GameSimulation.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/GameSimulation/GameControl/Brain.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/GameSimulation/GameControl/ComplexBrain.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/GameSimulation/GameControl/Map.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/GameSimulation/GameControl/MapPrinter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/GameSimulation/GameControl/OmegaBrain.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/GameSimulation/GameControl/TwoBrainCellsBrain.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/GameSimulation/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/GameSimulation/PlayerTypes/BornRunner.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/GameSimulation/PlayerTypes/NeedsAGallonPerDay.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/GameSimulation/PlayerTypes/Player.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/GameSimulation/TerrainTypes/ChanceSquare.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/GameSimulation/TerrainTypes/Forest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/GameSimulation/TerrainTypes/Grass.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/GameSimulation/TerrainTypes/River.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/GameSimulation/TerrainTypes/Sand.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/GameSimulation/TerrainTypes/Snow.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/GameSimulation/TerrainTypes/Terrain.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HomeworkProjects/GameControl/Brain.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HomeworkProjects/GameControl/ComplexBrain.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HomeworkProjects/GameControl/Map.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HomeworkProjects/GameControl/MapPrinter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HomeworkProjects/GameControl/OmegaBrain.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HomeworkProjects/GameControl/TwoBrainCellsBrain.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HomeworkProjects/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HomeworkProjects/PlayerTypes/BornRunner.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HomeworkProjects/PlayerTypes/NeedsAGallonPerDay.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HomeworkProjects/PlayerTypes/Player.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HomeworkProjects/TerrainTypes/ChanceSquare.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HomeworkProjects/TerrainTypes/Forest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HomeworkProjects/TerrainTypes/Grass.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HomeworkProjects/TerrainTypes/River.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HomeworkProjects/TerrainTypes/Sand.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HomeworkProjects/TerrainTypes/Snow.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HomeworkProjects/TerrainTypes/Terrain.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GameControl/Brain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GameControl/ComplexBrain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GameControl/Map.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GameControl/MapPrinter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GameControl/OmegaBrain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GameControl/TwoBrainCellsBrain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PlayerTypes/BornRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PlayerTypes/NeedsAGallonPerDay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PlayerTypes/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TerrainTypes/ChanceSquare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TerrainTypes/Forest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TerrainTypes/Grass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TerrainTypes/River.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TerrainTypes/Sand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TerrainTypes/Snow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TerrainTypes/Terrain.java" afterDir="false" />
-    </list>
+    <list default="true" id="0061261c-7a66-4c34-bf34-0fbc7806ea69" name="Default Changelist" comment="Finished Project" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -351,6 +293,9 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Sales_java$Nim.ic" NAME="Nim Coverage Results" MODIFIED="1634615297624" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>Homework3.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Main_java$Main.ic" NAME="Main Coverage Results" MODIFIED="1643177844716" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>.*</FILTER>
     </SUITE>
   </component>
 </project>
