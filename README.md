@@ -1,5 +1,7 @@
 Project 0 CS2400 Submission
 
+Professor Qichao Dong
+
 Alex Mariano
 
 Link to Video: https://www.youtube.com/watch?v=uGHet2_eD3U
